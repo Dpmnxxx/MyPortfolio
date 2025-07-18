@@ -1,6 +1,6 @@
 # MyPortfolio
 
-A personal portfolio built using HTML and CSS.
+A personal portfolio built using HTML, CSS and PrimeFlex.
 
 ## Description
 
